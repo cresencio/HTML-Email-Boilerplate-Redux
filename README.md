@@ -13,10 +13,14 @@ This repo is a fork of the original [HTML Email Boilerplate Redux](https://githu
 - gulp-server-livereload: to speed up web development. 
 
 
-## Instructions
+## Setup Instructions
 
 1. Download the zip or fork a copy of your own. 
 
 2. Open your project directory and run: `npm install`
 
 3. Run `gulp` 
+
+## Usage
+
+coming soon. 
